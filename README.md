@@ -33,8 +33,6 @@ To analyze employee attrition patterns based on age, gender, education, salary, 
 - Power Query: Data cleaning and transformation.
 - DAX: Calculated measures, KPIs, and attrition-rate analysis.
 - Data Modeling: Organizing employee data for multidimensional analysis.
-
-6.Screenshots / Demos Show what the dashboard looks like. Example: https://github.com/Devosin/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
 - Excel / CSV: Potential data source for employee records.
 
-Note: The dashboard appears to use Power BI-style visuals. Power Query, DAX, and Excel/CSV are inferred as likely technologies; the actual implementation may differ.
+6.Screenshots / Demos Show what the dashboard looks like. Example: https://github.com/Devosin/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
